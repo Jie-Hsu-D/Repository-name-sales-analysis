@@ -21,11 +21,11 @@ Analyze sales performance by region and identify top-selling products using Pyth
 
 ## Visualization
 - Revenue by Region
-![Revenue by Region](data/revenue_by_region.png)
+![Revenue by Region](Data/revenue_by_region.png)
 
 ### Revenue by Product
 - Revenue by Product with Top Product Highlighted
-![Revenue by Product](data/revenue_by_product.png)
+![Revenue by Product](Data/revenue_by_product.png)
 
 ## How to Run
 1. Clone the repository
