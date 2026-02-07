@@ -1,0 +1,8 @@
+Product,Units Sold,Unit Price,Region
+Laptop,150.0,1200,North
+Tablet,200.0,500,South
+Smartphone,,800,East
+Desktop,180.0,1000,West
+Monitor,300.0,150,Unknown
+Printer,0.0,200,East
+Scanner,250.0,300,
