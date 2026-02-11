@@ -9,7 +9,6 @@ Analyze sales performance by region and identify top-selling products using Pyth
 - Identifying top values with `idxmax`
 - Sorting and ranking
 - Data visualization with Matplotlib and Seaborn
-- Formatted output and reporting
 
 ## Key Insights
 - West/North region generated highest revenue
